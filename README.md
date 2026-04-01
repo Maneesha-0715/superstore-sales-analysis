@@ -26,3 +26,6 @@ from a retail superstore to uncover business insights and performance trends.
 ![Sales by Region](visualizations/sales_by_region.png)
 ![Monthly Trend](visualizations/monthly_trend.png)
 ![Profit by Category](visualizations/profit_by_category.png)
+
+## 🔗 Live Dashboard
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/Superstore_Analysis_Dashboard_17750044380110/Dashboard1)
